@@ -1,0 +1,6 @@
+Producto,Demanda_Promedio_Diaria,Stock_de_Seguridad,Punto_de_Reorden_(ROP),Cantidad_a_Pedir_(EOQ)
+Azucar_Blanca_500g,4.8,7,31,468
+Cafe_Grano_1kg,15.1,11,57,296
+Jarabe_Vainilla,2.8,9,37,197
+Leche_Almendra_1L,29.6,11,71,1039
+Vasos_Descartables_8oz,200.2,63,1465,14807
